@@ -1,3 +1,3 @@
 # Couple words description of capstone project
-Too short
+Too short\n
 Giving a sense of accomplishment

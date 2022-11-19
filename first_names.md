@@ -1,3 +1,3 @@
 # Hall of Fame first names
-Ada
+Ada\n
 Hsin-ping
