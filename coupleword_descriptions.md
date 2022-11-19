@@ -1,1 +1,2 @@
-# One-word description of capstone project
+# Couple words description of capstone project
+Too short
