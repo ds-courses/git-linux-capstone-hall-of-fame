@@ -1,4 +1,5 @@
 # Couple words description of capstone project
+* useful, helpful, facilitating, 
 
 * Too short
 * Giving a sense of accomplishment
