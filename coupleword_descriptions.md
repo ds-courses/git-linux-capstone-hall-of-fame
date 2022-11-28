@@ -8,3 +8,4 @@
 * Fun
 * Infuriating
 * A piece of cake
+* Entertaining
