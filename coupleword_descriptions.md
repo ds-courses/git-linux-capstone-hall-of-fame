@@ -9,3 +9,4 @@
 * Infuriating
 * A piece of cake
 * Entertaining
+* quite easy
