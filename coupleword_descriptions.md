@@ -10,3 +10,5 @@
 * A piece of cake
 * Entertaining
 * hard but in a good way #learning
+* quite easy
+
