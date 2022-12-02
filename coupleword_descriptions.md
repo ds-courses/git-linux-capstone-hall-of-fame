@@ -11,5 +11,6 @@
 * Entertaining
 * hard but in a good way #learning
 * quite easy
-* Learnt a lot, but was hard
+* Really cool
+* Learnt a lot, but was hard especially since i had to do an extra task... 
 
