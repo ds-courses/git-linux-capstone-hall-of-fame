@@ -11,4 +11,5 @@
 * Entertaining
 * hard but in a good way #learning
 * quite easy
+* Learnt a lot, but was hard
 
