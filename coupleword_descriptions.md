@@ -14,5 +14,7 @@
 * Really cool
 * Learnt a lot, but was hard especially since i had to do an extra task... 
 * Both frustrating and satisfying
+* Frustrating, but nice, useful 
 * Hard and time-consuming but I learned a lot
 * Unnecessarily long but equally useful
+
