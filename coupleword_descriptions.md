@@ -17,4 +17,5 @@
 * Frustrating, but nice, useful 
 * Hard and time-consuming but I learned a lot
 * Unnecessarily long but equally useful
+* Frustrating because of strictness of checks
 
