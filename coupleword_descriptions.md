@@ -1,6 +1,5 @@
 # Couple words description of capstone project
 * useful, helpful, facilitating, 
-
 * Too short
 * Giving a sense of accomplishment
 * Powerful you have become. The dark side I sense in you.
@@ -19,3 +18,4 @@
 * Unnecessarily long but equally useful
 * Frustrating because of strictness of checks
 * Learned a lot from the project
+* Very interesting but unnecessarily time consuming because of autograding and part 6
