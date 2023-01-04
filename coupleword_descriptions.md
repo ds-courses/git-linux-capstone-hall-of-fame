@@ -17,4 +17,5 @@
 * Hard and time-consuming but I learned a lot
 * Unnecessarily long but equally useful
 * Frustrating because of strictness of checks
-* Very interesting but unnecessarily time consuming because of autograding
+* Learned a lot from the project
+* Very interesting but unnecessarily time consuming because of autograding and part 6
