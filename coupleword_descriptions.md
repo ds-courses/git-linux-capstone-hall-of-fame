@@ -19,3 +19,4 @@
 * Frustrating because of strictness of checks
 * Learned a lot from the project
 * Very interesting but unnecessarily time consuming because of autograding and part 6
+* Frustrating but in the end good fun
