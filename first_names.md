@@ -16,7 +16,7 @@
 * Irina
 * Maria
 * Medha
-* Moritz 
 * Christophe
 * Hao-An 
 * Marie-Anais
+* Moritz
