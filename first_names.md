@@ -14,6 +14,7 @@
 * Elena 
 * Adrien
 * Irina
+* Sina
 * Maria
 * Medha
 * Christophe
