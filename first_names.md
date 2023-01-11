@@ -14,10 +14,10 @@
 * Elena 
 * Adrien
 * Irina
-* Sina
 * Maria
 * Medha
 * Christophe
 * Hao-An 
+* Sina
 * Marie-Anais
 * Moritz
