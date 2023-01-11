@@ -18,5 +18,6 @@
 * Medha
 * Christophe
 * Hao-An 
+* Sina
 * Marie-Anais
 * Moritz
