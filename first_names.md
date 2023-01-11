@@ -21,3 +21,4 @@
 * Sina
 * Marie-Anais
 * Moritz
+* Vincenzo
