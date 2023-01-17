@@ -22,3 +22,4 @@
 * Very interesting but unnecessarily time consuming because of autograding and part 6
 * Frustrating but in the end good fun
 * Useful allowed me to correct some bad practices while coding
+* Useful and quite fun
