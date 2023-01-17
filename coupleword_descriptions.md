@@ -23,3 +23,4 @@
 * Frustrating but in the end good fun
 * Useful allowed me to correct some bad practices while coding
 * Interesting project
+* Tough cookie
