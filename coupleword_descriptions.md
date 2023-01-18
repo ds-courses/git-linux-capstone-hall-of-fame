@@ -24,3 +24,4 @@
 * Useful allowed me to correct some bad practices while coding
 * Interesting project
 * Tough cookie
+* the meme of the dog where everything is burning but he says 'this is fine'
