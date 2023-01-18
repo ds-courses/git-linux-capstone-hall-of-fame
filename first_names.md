@@ -24,4 +24,5 @@
 * Vincenzo
 * Andreea
 * Martina
+* David
 * Aleksandra
