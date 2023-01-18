@@ -22,4 +22,6 @@
 * Marie-Anais
 * Moritz
 * Vincenzo
+* Andreea
+* Martina
 * David
