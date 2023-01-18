@@ -24,3 +24,4 @@
 * Useful allowed me to correct some bad practices while coding
 * Interesting project
 * Tough cookie
+* Useful and quite fun

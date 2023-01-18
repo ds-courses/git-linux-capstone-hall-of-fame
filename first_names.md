@@ -24,3 +24,4 @@
 * Vincenzo
 * Andreea
 * Martina
+* David
