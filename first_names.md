@@ -11,13 +11,13 @@
 * Rebecca
 * Yangyang
 * Sandrine
-* Elena 
+* Elena
 * Adrien
 * Irina
 * Maria
 * Medha
 * Christophe
-* Hao-An 
+* Hao-An
 * Sina
 * Marie-Anais
 * Moritz
@@ -25,3 +25,4 @@
 * Andreea
 * Martina
 * David
+* Nicolas
